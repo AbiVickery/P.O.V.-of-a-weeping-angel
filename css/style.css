@@ -1,10 +1,11 @@
 body {
-    text-align: center;
+    /* text-align: center; */
     background: rgb(154,149,149);
     background: linear-gradient(144deg, rgba(154,149,149,1) 0%, rgba(57,94,80,1) 100%);
 }
 
 .c1 {
+    text-align: left;
     background: -webkit-repeating-linear-gradient(#405a58, #af8b9a);
     width: 5em;
     height: 5em;
