@@ -25,3 +25,6 @@ function scenario1() {
     }
     document.getElementById("story1").innerHTML = answer;
 }
+
+scenario 1:
+    
